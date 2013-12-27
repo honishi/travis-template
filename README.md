@@ -1,5 +1,6 @@
 travis template
 ==
+[![Build Status](https://travis-ci.org/honishi/travis-template.png?branch=master)](https://travis-ci.org/honishi/travis-template)
 
 snippet
 --
