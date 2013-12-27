@@ -1,0 +1,3 @@
+[submodule "vendor/tweepy"]
+	path = vendor/tweepy
+	url = git@github.com:tweepy/tweepy.git
