@@ -1,11 +1,9 @@
 language: python
 python:
-  - "2.7"
-# command to install dependencies
+- '2.7'
 install:
-  - "pip install -r requirements.txt"
-# command to run tests
+- pip install -r requirements.txt
 script: ./run_tests.sh
 env:
   global:
-    - secure: |-
+  - secure: MkxFrnnGyas/gLzHgKWWmBBjdkU2P6ZknvU5R1RcOL2gRulmsNx99AYDPEo/LVbo2OoRZHwPeqG8tbwgZv0Kl+0tONyGN2/1gCJ201DUApb9R7tRa3KXjQN9oDJWtFOFFwFLNomqmBLZ+1W+TfKH9eszoF9pE1IXEwMQlDjud6I=
